@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "etecmcm-cadastro-usuarios",
+			"path": "../.."
+		},
+		{
+			"name": "api_front",
+			"path": "../../../../../api_front"
+		}
+	],
+	"settings": {}
+}
