@@ -13,6 +13,7 @@ function Home() {
   const inputIdade = useRef()
   const inputEmail = useRef()
 
+  //console.log(inputNome.current.value)
   
   async function getUusuarios(){
     const usuariosDaApi = await api.get('/cadastro')
